@@ -1,0 +1,21 @@
+{
+  "name": "consecutive",
+  "description": "List consecutive subarrays",
+  "version": "0.0.1",
+  "main": "./listConsecutives.js",
+  "author": {
+    "name": "bingalls",
+    "email": "bruce.ingalls(at)gmail[dot]com"
+  },
+  "keywords": [],
+  "licenses": {
+    "type": "gpl30"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bingalls/consecutive.git"
+  },
+  "bugs": {
+    "url": "http://github.com/bingalls/consecutive/issues"
+  }
+}
