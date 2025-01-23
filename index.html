@@ -1,36 +1,235 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
-    <title></title>
-
-    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
-    <script src="lib/ionic/js/ionic.bundle.js"></script>
-
-    <!-- cordova script (this will be a 404 during development)
-    <script src="cordova.js"></script>
-     -->
-    <!-- IF using Sass (run gulp sass first), then uncomment below and remove the CSS includes above
-    <link href="css/ionic.app.css" rel="stylesheet">
-    -->
-
-    <script src="js/app.js"></script>
-    <script src="js/controllers.js"></script>
-    <script src="js/routes.js"></script>
-    <script src="js/services.js"></script>
-    <script src="js/directives.js"></script>
-
-  </head>
-  <!--suppress HtmlUnknownAttribute -->
-  <body ng-app="app" animation="slide-left-right-ios7">
-  <div style="">
-    <div style="">
-        <ion-nav-bar class="bar-stable">
-            <ion-nav-back-button class="button-icon icon ion-ios-arrow-back">Back</ion-nav-back-button>
-        </ion-nav-bar>
-        <ion-nav-view></ion-nav-view>
+<!doctype html>
+<html class="h-full bg-white">
+<head>
+  <title>PHP Laravel resume</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="./src/output.css" rel="stylesheet">
+  <link rel="icon" href="/favicon.ico">
+  <link rel="icon" href="img/AMvEIh0FQF2ZGQy5x3SY_nicubunu-Comic-characters-Profile.svg">
+  <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+</head>
+<body class="h-full">
+  <div class="flex flex-row">
+    <div class="basis-1/12">
+      <!-- Static sidebar for desktop -->
+      <div class="lg:fixed lg:inset-y-0 lg:z-50 lg:flex lg:flex-col">
+        <!-- Sidebar component, swap this element with another sidebar if you like -->
+        <div class="flex grow flex-col gap-y-5 overflow-y-auto border-r border-gray-200 bg-white px-6">
+          <div class="mid flex h-16 shrink-0 items-center">
+            <img class="h-8 w-auto" src="img/AMvEIh0FQF2ZGQy5x3SY_nicubunu-Comic-characters-Profile.svg" alt="Laravel developer">
+          </div>
+          <nav class="flex flex-1 flex-col">
+            <ul role="list" class="flex flex-1 flex-col gap-y-7">
+              <li>
+                <ul role="list" class="-mx-2 space-y-1">
+                  <li>
+                    <a href="./index.html" alt="resume"
+                     class="group flex gap-x-3 rounded-md bg-gray-50 p-2 text-sm/6 font-semibold text-indigo-600">
+                     <span class="mid">
+                      <img src="img/KV2fvOOcSYW979hS0c9H_nicubunu-Comic-characters-Operator.svg" />
+                      Resume
+                    </span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="./portfolio.html" alt="portfolio"
+                     class="group flex gap-x-3 rounded-md p-2 text-sm/6 font-semibold text-gray-700 hover:bg-gray-50 hover:text-indigo-600">
+                     <span class="mid">
+                      <img src="img/jixoeYNuRsW8Sba7hmzc_nicubunu-Comic-characters-Painter.svg" />
+                        Portfolio
+                      </span>
+                      </a>
+                  </li>
+                  <li>
+                    <a href="./code.html" alt="code samples"
+                     class="group flex gap-x-3 rounded-md p-2 text-sm/6 font-semibold text-gray-700 hover:bg-gray-50 hover:text-indigo-600">
+                      <span class="mid">
+                        <img src="img/source-code.svg" />
+                        Code
+                      </span>
+                      </a>
+                  </li>
+                  <li>
+                    <a href="mailto:bruce.ingalls@gmail.-NOSPAM-com" alt="contact"
+                     class="group flex gap-x-3 rounded-md p-2 text-sm/6 font-semibold text-gray-700 hover:bg-gray-50 hover:text-indigo-600">
+                     <span class="mid">
+                      <img src="img/aTib8SxOR1mBPdkKNS01_LlubNek-Closed-Envelope-1.svg" />
+                        Email
+                      </span>
+                      </a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
     </div>
+
+    
+    <main class="basis-11/12 py-10">
+      <div class="px-4 sm:px-6 lg:px-8">
+        <!-- content -->
+
+        <!-- heading -->
+        <div class="bg-white">
+          <div class="mx-auto max-w-7xl px-6 lg:px-8">
+            <div class="mx-auto max-w-4xl text-center">
+              <p class="mt-2 text-5xl font-semibold tracking-tight text-balance text-gray-900 sm:text-6xl">PHP Laravel developer</p>
+            </div>
+            <p class="mx-auto mt-6 max-w-2xl text-center text-lg font-medium text-pretty text-gray-600 sm:text-xl/8">
+              Bruce Ingalls, Full stack engineer with over 10 years of experience.
+            </p>
+
+            <!-- summary boxes -->
+            <div class="isolate mx-auto mt-10 grid max-w-md grid-cols-1 gap-8 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+              <div class="rounded-3xl p-8 ring-1 ring-gray-200 xl:p-10">
+                <div class="flex items-center justify-between gap-x-4">
+                  <h3 id="tier-freelancer" class="text-lg/8 font-semibold text-gray-900">DevOps</h3>
+                </div>
+                <p class="mt-4 text-sm/6 text-gray-600">System & Database Admin, Infrastructure As Code, etc.</p>
+
+                <ul role="list" class="mt-8 space-y-3 text-sm/6 text-gray-600 xl:mt-10">
+                  <li class="flex gap-x-3">
+                    <svg class="h-6 w-5 flex-none text-indigo-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+                      <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 0 1 .143 1.052l-8 10.5a.75.75 0 0 1-1.127.075l-4.5-4.5a.75.75 0 0 1 1.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 0 1 1.05-.143Z" clip-rule="evenodd" />
+                    </svg>
+                    Amazon AWS
+                  </li>
+                  <li class="flex gap-x-3">
+                    <svg class="h-6 w-5 flex-none text-indigo-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+                      <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 0 1 .143 1.052l-8 10.5a.75.75 0 0 1-1.127.075l-4.5-4.5a.75.75 0 0 1 1.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 0 1 1.05-.143Z" clip-rule="evenodd" />
+                    </svg>
+                    SQL DBA
+                  </li>
+                  <li class="flex gap-x-3">
+                    <svg class="h-6 w-5 flex-none text-indigo-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+                      <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 0 1 .143 1.052l-8 10.5a.75.75 0 0 1-1.127.075l-4.5-4.5a.75.75 0 0 1 1.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 0 1 1.05-.143Z" clip-rule="evenodd" />
+                    </svg>
+                    Git * flows, CI/CD, etc
+                  </li>
+                  <li class="flex gap-x-3">
+                    <svg class="h-6 w-5 flex-none text-indigo-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+                      <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 0 1 .143 1.052l-8 10.5a.75.75 0 0 1-1.127.075l-4.5-4.5a.75.75 0 0 1 1.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 0 1 1.05-.143Z" clip-rule="evenodd" />
+                    </svg>
+                    Linux System Admin
+                  </li>
+                </ul>
+              </div>
+
+              <div class="rounded-3xl p-8 ring-2 ring-indigo-600 xl:p-10">
+                <div class="flex items-center justify-between gap-x-4">
+                  <h3 id="tier-startup" class="text-lg/8 font-semibold text-indigo-600">Languages</h3>
+                </div>
+                <p class="mt-4 text-sm/6 text-gray-600">OOP Object Oriented & functional programming</p>
+                <ul role="list" class="mt-8 space-y-3 text-sm/6 text-gray-600 xl:mt-10">
+                  <li class="flex gap-x-3">
+                    <svg class="h-6 w-5 flex-none text-indigo-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+                      <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 0 1 .143 1.052l-8 10.5a.75.75 0 0 1-1.127.075l-4.5-4.5a.75.75 0 0 1 1.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 0 1 1.05-.143Z" clip-rule="evenodd" />
+                    </svg>
+                    JavaScript frameworks
+                  </li>
+                  <li class="flex gap-x-3">
+                    <svg class="h-6 w-5 flex-none text-indigo-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+                      <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 0 1 .143 1.052l-8 10.5a.75.75 0 0 1-1.127.075l-4.5-4.5a.75.75 0 0 1 1.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 0 1 1.05-.143Z" clip-rule="evenodd" />
+                    </svg>
+                    PHP / Laravel
+                  </li>
+                  <li class="flex gap-x-3">
+                    <svg class="h-6 w-5 flex-none text-indigo-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+                      <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 0 1 .143 1.052l-8 10.5a.75.75 0 0 1-1.127.075l-4.5-4.5a.75.75 0 0 1 1.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 0 1 1.05-.143Z" clip-rule="evenodd" />
+                    </svg>
+                    SQL
+                  </li>
+                  <li class="flex gap-x-3">
+                    <svg class="h-6 w-5 flex-none text-indigo-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+                      <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 0 1 .143 1.052l-8 10.5a.75.75 0 0 1-1.127.075l-4.5-4.5a.75.75 0 0 1 1.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 0 1 1.05-.143Z" clip-rule="evenodd" />
+                    </svg>
+                    TypeScript
+                  </li>
+                </ul>
+              </div>
+
+              <div class="rounded-3xl p-8 ring-1 ring-gray-200 xl:p-10">
+                <div class="flex items-center justify-between gap-x-4">
+                  <h3 id="tier-enterprise" class="text-lg/8 font-semibold text-gray-900">Full Stack</h3>
+                </div>
+                <p class="mt-4 text-sm/6 text-gray-600">Full SDLC Software Development Life Cycle</p>
+                <ul role="list" class="mt-8 space-y-3 text-sm/6 text-gray-600 xl:mt-10">
+                  <li class="flex gap-x-3">
+                    <svg class="h-6 w-5 flex-none text-indigo-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+                      <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 0 1 .143 1.052l-8 10.5a.75.75 0 0 1-1.127.075l-4.5-4.5a.75.75 0 0 1 1.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 0 1 1.05-.143Z" clip-rule="evenodd" />
+                    </svg>
+                    Analysis & Design
+                  </li>
+                  <li class="flex gap-x-3">
+                    <svg class="h-6 w-5 flex-none text-indigo-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+                      <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 0 1 .143 1.052l-8 10.5a.75.75 0 0 1-1.127.075l-4.5-4.5a.75.75 0 0 1 1.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 0 1 1.05-.143Z" clip-rule="evenodd" />
+                    </svg>
+                    Code programs
+                  </li>
+                  <li class="flex gap-x-3">
+                    <svg class="h-6 w-5 flex-none text-indigo-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+                      <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 0 1 .143 1.052l-8 10.5a.75.75 0 0 1-1.127.075l-4.5-4.5a.75.75 0 0 1 1.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 0 1 1.05-.143Z" clip-rule="evenodd" />
+                    </svg>
+                    QA Testing
+                  </li>
+                  <li class="flex gap-x-3">
+                    <svg class="h-6 w-5 flex-none text-indigo-600" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon">
+                      <path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 0 1 .143 1.052l-8 10.5a.75.75 0 0 1-1.127.075l-4.5-4.5a.75.75 0 0 1 1.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 0 1 1.05-.143Z" clip-rule="evenodd" />
+                    </svg>
+                    Deployment & automation
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- resume formats -->
+        <div class="bg-gray-50">
+          <div class="mx-auto max-w-7xl py-16 sm:px-2 sm:py-24 lg:px-4">
+            <div class="mx-auto grid max-w-2xl grid-cols-3 gap-x-8 gap-y-10 px-4 lg:max-w-none">
+              <div class="text-center sm:flex sm:text-left lg:block lg:text-center">
+                <div class="sm:shrink-0">
+                  <div class="flow-root">
+                    <a href="./docs/BruceIngalls.docx" class="group text-sm" target="_blank">
+                      <img class="mx-auto h-24 w-28" src="./img/doc.svg" alt="word resume">
+                      <h3 class="text-sm text-center font-medium text-gray-900">Microsoft Word R&eacute;sum&eacute;</h3>
+                      <!-- <p class="mt-2 text-sm text-gray-500">details</p> -->
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="text-center sm:flex sm:text-left lg:block lg:text-center">
+                <div class="sm:shrink-0">
+                  <div class="flow-root">
+                    <a href="./docs/BruceIngalls.pdf" class="group text-sm" target="_blank">
+                      <img class="mx-auto h-24 w-28" src="./img/pdf.svg" alt="pdf resume">
+                      <h3 class="text-sm text-center font-medium text-gray-900">PDF r&eacute;sum&eacute;</h3>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="text-center sm:flex sm:text-left lg:block lg:text-center">
+                <div class="sm:shrink-0">
+                  <div class="flow-root">
+                    <a href="./docs/BruceIngalls.txt" class="group text-sm" target="_blank">
+                      <img class="mx-auto h-24 w-28" src="./img/text.svg" alt="text resume">
+                      <h3 class="text-sm text-center font-medium text-gray-900">Plain text R&eacute;sum&eacute;</h3>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        
+      </div>
+    </main>
+  
   </div>
-  </body>
+</body>
 </html>
