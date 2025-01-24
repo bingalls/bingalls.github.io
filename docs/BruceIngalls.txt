@@ -4,6 +4,7 @@ https://bingalls.github.io
 
 SKILLS
 Languages	JavaScript, PHP/Laravel, SQL, TypeScript
+
 DevOps	Amazon AWS, DBA, Linux system admin, Git
 Full Stack	SDLC: analysis; design; code; test; deploy
 
@@ -20,7 +21,7 @@ Environment
 Laravel PHP, Bootstrap
 
 Experience
-Created quality & testing workflows for ISP internet & TV provider billing site
+Sparked new testing & cases in Playwright, MSW & Pest for ISP internet & TV provider billing site
 Overhauled home page User eXperience beyond 5x speedup; asynchronously loaded each page block
 Created strategy to upgrade API that vexed company for years. Improved security as a side-effect
 Converted PDF to CSS that stumped the rest of the team
@@ -30,7 +31,7 @@ Clients: Pearson, Consumer Reports, Helix; Exenta, Purveyor, Play Sports Live
 Worked in E-commerce, Finance, Media & Product Lifecycle Management verticals
 
 Environments
-Laravel/PHP, AWS, React, Vue, Ionic, MeteorJS, MongoDB, Docker
+Laravel/PHP, AWS, React, Vue, MongoDB, Redis, Terraform
 
 Led small teams using Agile Process, setting up Redmine ticketing.
 Made releases more reliable with git-flow, setting up staging deployments, Continuous Integration, etc.
