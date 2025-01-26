@@ -1,10 +1,9 @@
 ﻿Bruce Ingalls         New York, NY
-Full Stack Developer of 10+ Years	bruce . ingalls (at) gmail
+Laravel & JavaScript Developer of 10+ Years	bruce . ingalls (at) gmail
 https://bingalls.github.io
 
 SKILLS
-Languages	JavaScript, PHP/Laravel, SQL, TypeScript
-
+Languages	JavaScript & Node.js, PHP/Laravel, SQL, TypeScript
 DevOps	Amazon AWS, DBA, Linux system admin, Git
 Full Stack	SDLC: analysis; design; code; test; deploy
 
@@ -25,13 +24,14 @@ Sparked new testing & cases in Playwright, MSW & Pest for ISP internet & TV prov
 Overhauled home page User eXperience beyond 5x speedup; asynchronously loaded each page block
 Created strategy to upgrade API that vexed company for years. Improved security as a side-effect
 Converted PDF to CSS that stumped the rest of the team
+Crafted customer friendly process to register new devices
 
 Ingalls Consulting Co	New York, NY	8 years 2012 - 2021
 Clients: Pearson, Consumer Reports, Helix; Exenta, Purveyor, Play Sports Live
 Worked in E-commerce, Finance, Media & Product Lifecycle Management verticals
 
 Environments
-Laravel/PHP, AWS, React, Vue, MongoDB, Redis, Terraform
+Laravel/PHP, AWS, JavaScript, MongoDB, Node.js, React, Redis, Terraform, Vue
 
 Led small teams using Agile Process, setting up Redmine ticketing.
 Made releases more reliable with git-flow, setting up staging deployments, Continuous Integration, etc.
@@ -57,4 +57,4 @@ EDUCATION
 Rochester Institute Of Technology	Computer Science	Rochester, NY
 State University Of New Paltz	B.S. Electrical Engineering	New Paltz, NY
 
-OTHER	Fluent in German and French
+OTHER	Fluent in German and French; CompTIA Security+
