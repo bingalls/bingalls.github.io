@@ -1,3 +1,4 @@
 @import "tailwindcss";
 
 .mid { margin:0 auto; text-align:center;}
+.h-head { max-height:6.5rem; }
