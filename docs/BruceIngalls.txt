@@ -1,60 +1,48 @@
-﻿Bruce Ingalls         New York, NY
-Laravel & JavaScript Developer of 10+ Years	bruce . ingalls (at) gmail
-https://bingalls.github.io
+﻿Bruce Ingalls | Tampa, FL | ✉️ bruce.ingalls @ gmail |   https://bingalls.github.io
+SUMMARY	Full Stack Engineer for over 10 years
 
-SKILLS
-Languages	JavaScript & Node.js, PHP/Laravel, SQL, TypeScript
-DevOps	Amazon AWS, DBA, Linux system admin, Git
-Full Stack	SDLC: analysis; design; code; test; deploy
+Skills over 10 years & recent
+⭐️ ⭐️	Bootstrap; CSS; SASS; TailwindCSS
+⭐️ ⭐️	JavaScript; jQuery; TypeScript; Node.js
+⭐️ ⭐️	Linux system admin; Bash; CI/CD; Git
+⭐️ ⭐️	MySQL; Redis
+⭐️ ⭐️	PHP & Laravel
 
-ACCOMPLISHMENTS
-Architecture	Reactive Single Page App, scaled to update in seconds
-Back End	Performance optimization & multi-layer caching
-Biz Process	Guide team to agile; git flow; test plans
-Open Source	Ubuntu's JDK; GNU contributor; Log4PHP driver
+Skills under 10 years or less recent
+⭐️	Alpine; Livewire; React; Vue
+⭐️	Amazon AWS; Azure; Docker; Terraform; Vagrant
+⭐️	C; C++; C#; Dot Net; Java
+⭐️	DBA; MongoDB; MSSQL, Oracle, SQL Server, etc
+⭐️	Testing: Playwright; MSW; Selenium; *Unit
 
-EXPERIENCE
-Hotwire Communications	Fort Lauderdale, FL	3 years 2022 - 2025
+PROFESSIONAL EXPERIENCE
+Hotwire Communications  |  Fort Lauderdale, FL  |  2022 – 2025
+Laravel PHP, Bootstrap for ISP billing website
+    • Came to resolve >20 sec load times to < 6 sec, critical to customer satisfaction.
+    • Innovated self-service with User eXperience tactics & Playwright tests. Reduced support calls.
+    • Resolved years of failed API upgrades. Improved speed & security as a side-effect
+    • Explained & replaced PDF-lib with modern CSS for speed & maintenance
 
-Environment
-Laravel PHP, Bootstrap
+Ingalls Consulting Co  |  New York, NY  |  2012 – 2021
+Laravel/PHP, AWS, C#, Java, JavaScript, MongoDB, Node.js, React, Redis, Terraform, Vue
+Clients:	  Pearson, Consumer Reports, Helix, Play Sports Live, Katherine Gibbs School
+Industries:   E-commerce, Finance, Media & Product Lifecycle Management
+    • As team lead, kickstarted Agile; issue tracking; git-flow; CI/CD tests; deployments
+    • National magazine site overhaul: UX & code & cache performance for server load & customer delight.
+    • Tripled testing speeds on critical path to code delivery
+    • Delivered distributed online game with snappy UX on tight schedule
+    • Trained IT classes such as computer security
+    • Rapid DevX onboarding via Docker & documentation
 
-Experience
-Sparked new testing & cases in Playwright, MSW & Pest for ISP internet & TV provider billing site
-Overhauled home page User eXperience beyond 5x speedup; asynchronously loaded each page block
-Created strategy to upgrade API that vexed company for years. Improved security as a side-effect
-Converted PDF to CSS that stumped the rest of the team
-Crafted customer friendly process to register new devices
-
-Ingalls Consulting Co	New York, NY	8 years 2012 - 2021
-Clients: Pearson, Consumer Reports, Helix; Exenta, Purveyor, Play Sports Live
-Worked in E-commerce, Finance, Media & Product Lifecycle Management verticals
-
-Environments
-Laravel/PHP, AWS, JavaScript, MongoDB, Node.js, React, Redis, Terraform, Vue
-
-Led small teams using Agile Process, setting up Redmine ticketing.
-Made releases more reliable with git-flow, setting up staging deployments, Continuous Integration, etc.
-Optimized speed on both front & back end, including Webpack; Redis & Varnish caching
-Beyond CI/CD, I tripled testing speeds, ensuring compliance
-Injected Quality into legacy code that wasn’t instrumented for testing.
-Delivered online game with snappy UX on tight schedule
-Lectures on computer security
-Rapid onboarding with Docker & documentation
-
-Cantor Fitzgerald	New York, NY	2 years 2009 - 2011
-Developer: E-commerce website
-
-Environment
-PHP, jQuery, Web Services
-
-Experience
-Modernized legacy food delivery site including PCI/DSS compliance
-My early adoption of a CSS framework later enabled responsive redesign. 
-Database optimization. Called ReST APIs: Authorize.net, StrikeIron, Noaa weather.
+Cantor Fitzgerald  |  New York, NY  |  2009 – 2011
+PHP, jQuery, Web Services for national food delivery e-commerce
+    • PCI/DSS E-commerce payment gateway compliance
+    • Adopted responsive CSS before Mobile device market was recognized
+    • Database optimization. ReST APIs: StrikeIron, NOAA, Authorize.net card payment gateway
 
 EDUCATION
-Rochester Institute Of Technology	Computer Science	Rochester, NY
-State University Of New Paltz	B.S. Electrical Engineering	New Paltz, NY
+Rochester Institute Of Technology	Computer Science
+State University Of New Paltz	B.S. Electrical Engineering
 
-OTHER	Fluent in German and French; CompTIA Security+
+Open Source	Ubuntu's JDK package; GNU/Linux code; Log4PHP driver
+Bilingual English, German, French. Certified CompTIA Security+
