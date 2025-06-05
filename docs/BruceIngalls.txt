@@ -1,19 +1,19 @@
 ﻿Bruce Ingalls | Tampa, FL | ✉️ bruce.ingalls @ gmail |   https://bingalls.github.io
-SUMMARY	Full Stack Engineer for over 10 years
+SUMMARY	Full stack software engineer developer for over 10 years
 
 Skills over 10 years & recent
-⭐️ ⭐️	Bootstrap; CSS; SASS; TailwindCSS
+⭐️ ⭐️	Bootstrap; HTML5; SASS, TailwindCSS
 ⭐️ ⭐️	JavaScript; jQuery; TypeScript; Node.js
-⭐️ ⭐️	Linux system admin; Bash; CI/CD; Git
-⭐️ ⭐️	MySQL; Redis
-⭐️ ⭐️	PHP & Laravel
+⭐️ ⭐️	Linux system admin; Bash; CI/CD; Git Flow
+⭐️ ⭐️	MySQL; Redis; OOP Object Oriented Programming
+⭐️ ⭐️	PHP; Laravel / Symfony; LAMP
 
 Skills under 10 years or less recent
 ⭐️	Alpine; Livewire; React; Vue
 ⭐️	Amazon AWS; Azure; Docker; Terraform; Vagrant
 ⭐️	C; C++; C#; Dot Net; Java
 ⭐️	DBA; MongoDB; MSSQL, Oracle, SQL Server, etc
-⭐️	Testing: Playwright; MSW; Selenium; *Unit
+⭐️	Testing: Playwright; MSW; Selenium; Pest, PhpUnit, etc
 
 PROFESSIONAL EXPERIENCE
 Hotwire Communications  |  Fort Lauderdale, FL  |  2022 – 2025
@@ -31,7 +31,7 @@ Industries:   E-commerce, Finance, Media & Product Lifecycle Management
     • National magazine site overhaul: UX & code & cache performance for server load & customer delight.
     • Tripled testing speeds on critical path to code delivery
     • Delivered distributed online game with snappy UX on tight schedule
-    • Trained IT classes such as computer security
+    • Teaching IT classes refined my communication skills
     • Rapid DevX onboarding via Docker & documentation
 
 Cantor Fitzgerald  |  New York, NY  |  2009 – 2011
