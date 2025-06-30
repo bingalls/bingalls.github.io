@@ -9,27 +9,19 @@ and CI/CD. Improved UI/UX with fresher, responsive mobile designs.
 
 ### ⛭ Skills over 10 years & recent
 
- ⭐️ ⭐️ Bootstrap; HTML5; SASS, TailwindCSS
-
- ⭐️ ⭐️ JavaScript; jQuery; TypeScript; Node.js
-
- ⭐️ ⭐️ Linux system admin; Bash; CI/CD; Git Flow
-
- ⭐️ ⭐️ MySQL; Redis; OOP Object Oriented Programming
-
- ⭐️ ⭐️ PHP8; Laravel / Symfony; LAMP
+* ⭐️⭐️ Bootstrap; HTML5; SASS, TailwindCSS
+* ⭐️⭐️ JavaScript; jQuery; TypeScript; Node.js
+* ⭐️⭐️ Linux system admin; Bash; CI/CD; Git Flow
+* ⭐️⭐️ MySQL; Redis; OOP Object Oriented Programming
+* ⭐️⭐️ PHP8; Laravel / Symfony; LAMP
 
 ### ⛭ Skills under 10 years or less recent
 
- ⭐️ Alpine; Livewire; React; Vue
-
- ⭐️ Amazon AWS; Azure; Docker; Terraform; Vagrant
-
- ⭐️ C; C++; C#; Dot Net; Java
-
- ⭐️ DBA; MongoDB; MSSQL, Oracle, SQL Server, etc
-
- ⭐️ Testing: Playwright; MSW; Selenium; Pest, PhpUnit, etc
+* ⭐️ Alpine; Livewire; React; Vue
+* ⭐️ Amazon AWS; Azure; Docker; Terraform; Vagrant
+* ⭐️ C; C++; C#; Dot Net; Java
+* ⭐️ DBA; MongoDB; MSSQL, Oracle, SQL Server, etc
+* ⭐️ Testing: Playwright; MSW; Selenium; Pest, PhpUnit, etc
 
 ### 👔 PROFESSIONAL EXPERIENCE
 
