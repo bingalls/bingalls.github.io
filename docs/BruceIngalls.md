@@ -29,7 +29,7 @@ and CI/CD. Improved UI/UX with fresher, responsive mobile designs.
 | :- | :-: | :-: | -: |
 | 👔 Full stack engineer | Hotwire Communications | Fort Lauderdale, FL | 2022 – 2025 |
 
-> Laravel PHP8, Bootstrap for ISP billing website
+> Laravel PHP8, NodeJS, React,  Bootstrap for ISP billing website
 
 * Reduced \>20 second home page load time to \< 6 sec, critical to customer
     satisfaction.
