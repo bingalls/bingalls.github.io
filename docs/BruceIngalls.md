@@ -3,38 +3,40 @@
 ## SUMMARY
 
 Full Stack Engineer with over 10 years of PHP / Laravel and JavaScript.
-Hired to solve web performance via caching.
-Followed up with security & testing issues, including QA through test plans
-and CI/CD. Improved UI/UX with fresher, responsive mobile designs.
 
-### ⛭ Skills over 10 years & recent
+A founding member of NY Web Performance group certified in security. These
+skills ensured critical needs demanded at major national websites I  joined.
+Innovated testing such as QA test plans & CI/CD, improving agility in these
+enterprise systems. Brought fresh responsive mobile UX to delight customers.
+Experience includes media, e-commerce & health.
 
-* ⭐️⭐️ Bootstrap; HTML5; SASS, TailwindCSS
-* ⭐️⭐️ JavaScript; jQuery; TypeScript; Node.js
-* ⭐️⭐️ Linux system admin; Bash; CI/CD; Git Flow
-* ⭐️⭐️ MySQL; Redis; OOP Object Oriented Programming
-* ⭐️⭐️ PHP8; Laravel / Symfony; LAMP
+### ⭐️ Skills over 10 years & recent
 
-### ⛭ Skills under 10 years or less recent
+* Bootstrap; HTML5; SASS; TailwindCSS
+* JavaScript; jQuery; Node.js; TypeScript
+* Linux system admin; Bash; CI/CD; Git Flow
+* MySQL; Redis; OOP Object Oriented Programming
+* PHP8; Laravel / Symfony; LAMP
 
-* ⭐️ Alpine; Livewire; React; Vue
-* ⭐️ Amazon AWS; Azure; Docker; Terraform; Vagrant
-* ⭐️ C; C++; C#; Dot Net; Java
-* ⭐️ DBA; MongoDB; MSSQL, Oracle, SQL Server, etc
-* ⭐️ Testing: Playwright; MSW; Selenium; Pest, PhpUnit, etc
+### Skills under 10 years or less recent
+
+* Alpine; Livewire; React; Vue
+* Amazon AWS; Azure; Docker; Terraform; Vagrant
+* C; C++; C#; Dot Net; Java
+* DBA; DynamoDB; MongoDB; Oracle; SQL Server; etc
+* Testing: MSW; Pest; PhpUnit; Playwright; Postman; Selenium
 
 ### 👔 PROFESSIONAL EXPERIENCE
 
 | | | | |
 | :- | :-: | :-: | -: |
-| 👔 Full stack engineer | Hotwire Communications | Fort Lauderdale, FL | 2022 – 2025 |
+|Full stack engineer|Hotwire Communications|Fort Lauderdale, FL|2022 – 2025|
 
-> Laravel PHP8, NodeJS, React,  Bootstrap for ISP billing website
+> Laravel PHP8, NodeJS, React, Bootstrap for billing website of bulk ISP service across USA
 
-* Reduced \>20 second home page load time to \< 6 sec, critical to customer
-    satisfaction.
+* Reduced \>20 second home page load time to \< 6 sec, critical to customer satisfaction.
 * Created UX tactics to replace customer support, enabling immediate self-service.
-* Automated tests in Playwright improved quality and time to market.
+* Automated tests in Playwright & Postman improved quality and time to market.
 * Resolved a long-standing API architectural fault, vexing others for years.
     Achieved ~10ms faster response, also passing a security audit.
 * Replaced PDF-lib with modern CSS, resulting in faster, maintainable code.
@@ -42,9 +44,9 @@ and CI/CD. Improved UI/UX with fresher, responsive mobile designs.
 
 | | | | |
 | :- | :-: | :-: | -: |
-| 👔 Full stack consultant | Ingalls Consulting Co | New York, NY | 2012 – 2021 |
+| Full stack consultant | Ingalls Consulting Co | New York, NY | 2012 – 2021 |
 
-> Laravel/PHP7, AWS, C#, Java, JavaScript, MongoDB, Node.js, React, Redis,
+> Laravel / PHP7, AWS, C#, Java, JavaScript, MongoDB, Node.js, React, Redis,
     Terraform, Varnish, Vue
 >
 > Clients: Pearson, Consumer Reports, Helix, Play Sports Live, Katherine Gibbs School
