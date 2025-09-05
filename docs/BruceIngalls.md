@@ -32,13 +32,16 @@ Experience includes media, e-commerce & health.
 | :- | :-: | :-: | -: |
 |Full stack engineer|Hotwire Communications|Fort Lauderdale, FL|2022 – 2025|
 
-> Laravel PHP8, NodeJS, React, Bootstrap for billing website of bulk ISP service across USA
+> Laravel PHP8, NodeJS, React, Bootstrap for billing website of bulk ISP
+> service across USA
 
-* Reduced \>20 second home page load time to \< 6 sec, critical to customer satisfaction.
-* Created UX tactics to replace customer support, enabling immediate self-service.
+* Reduced \>20 second home page load time to \< 6 sec, critical to customer
+    satisfaction.
+* Created UX tactics to replace customer support, enabling immediate
+    self-service.
 * Automated tests in Playwright & Postman improved quality and time to market.
-* Resolved a long-standing API architectural fault, vexing others for years.
-    Achieved ~10ms faster response, also passing a security audit.
+* Resolved an API architectural fault that vexed staff for years. ~10ms faster
+    response also improved security audit.
 * Replaced PDF-lib with modern CSS, resulting in faster, maintainable code.
     Improved print UX for customers.
 
@@ -49,17 +52,17 @@ Experience includes media, e-commerce & health.
 > Laravel / PHP7, AWS, C#, Java, JavaScript, MongoDB, Node.js, React, Redis,
     Terraform, Varnish, Vue
 >
-> Clients: Pearson, Consumer Reports, Helix, Play Sports Live, Katherine Gibbs School
-> Industries: E-commerce, Finance, Media & Product Lifecycle Management
+> Clients: Consumer Reports, Helix, K. Gibbs School, Pearson, Play Sports Live
+> Industries: E-commerce, Finance, Health, Media & Product Lifecycle Management
 
 * Led management communications, creating agile issue tracking, git-flow & CI/CD
 * Cached Consumer Reports pages, speeding from hours to \< 6 sec.
-* Optimized testing speeds to **triple performance**.
-    Sped every git commit for faster releases.
+* Optimized testing speeds to **triple performance**, speeding git commit cycles
 * Delivered distributed sports betting game in months to meet season kickoff.
 * Refined communication skills by teaching classes.
-    Included complex topics such as IT security.
+    Advanced topics included IT security.
 * Documented & automated Docker to onboard new techs from one week to one day.
+* Security HIPAA, PCI/DSS, Sarbanes-Oxley (SOX2), etc compliance.
 
 | | | | |
 | :- | :-: | :-: | -: |
@@ -69,8 +72,7 @@ Experience includes media, e-commerce & health.
 
 * Optimized PHP & SQL for 50% speed increase, or double traffic.
 * Adopted new CSS grid, reducing time to market by 15%, improving mobile usage.
-* Integrated ReST APIs: StrikeIron & NOAA.
-    Ensured Authorize.net PCI/DSS compliance to enhance security.
+* Integrated ReST APIs: Authorize.net, StrikeIron & NOAA, enhancing sales.
 
 ### 🎓 EDUCATION
 
