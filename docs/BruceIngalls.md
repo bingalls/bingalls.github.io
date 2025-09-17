@@ -4,11 +4,12 @@
 
 Full Stack Engineer with over 10 years of PHP / Laravel and JavaScript.
 
-A founding member of NY Web Performance group certified in security. These
-skills ensured critical needs demanded at major national websites I  joined.
-Innovated testing such as QA test plans & CI/CD, improving agility in these
-enterprise systems. Brought fresh responsive mobile UX to delight customers.
-Experience includes media, e-commerce & health.
+A founding member of NY Web Performance group & certified in security.
+From critical Fortune 500 enterprises to urgent startups, I've innovated
+QA test plans, CI/CD, agile project management & fresh responsive mobile
+UX to delight customers on over a hundred websites & apps from design to
+deploy. I pitch in, where others dread to tread; namely testing & docs,
+using my communication skills as a former teacher.
 
 ### ⭐️ Skills over 10 years & recent
 
@@ -32,7 +33,7 @@ Experience includes media, e-commerce & health.
 | :- | :-: | :-: | -: |
 |Full stack engineer|Hotwire Communications|Fort Lauderdale, FL|2022 – 2025|
 
-> Laravel PHP8, NodeJS, React, Bootstrap for billing website of bulk ISP
+> Laravel PHP8, Node.js, React, Bootstrap for billing website of bulk ISP
 > service across USA
 
 * Reduced \>20 second home page load time to \< 6 sec, critical to customer
