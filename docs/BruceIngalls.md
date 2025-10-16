@@ -1,4 +1,4 @@
-## Bruce Ingalls Tampa Bay, FL  [bruce.ingalls @ gmail](mailto:bruce.ingalls@gmail.com) . [https://bingalls.github.io](https://bingalls.github.io/)
+## Bruce Ingalls 🌴 Tampa Bay, FL  [bruce.ingalls @ gmail](mailto:bruce.ingalls@gmail.com) . [https://bingalls.github.io](https://bingalls.github.io/)
 
 ## SUMMARY
 
